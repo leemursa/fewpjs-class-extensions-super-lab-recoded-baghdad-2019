@@ -1,4 +1,4 @@
-# JavaScript Class Extension Lab: `super`
+y`# JavaScript Class Extension Lab: `super`
 
 ## Learning Goals
 
